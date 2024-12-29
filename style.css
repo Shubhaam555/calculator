@@ -1,0 +1,38 @@
+#cal{
+    padding-top: 10px;
+    width: 20%;
+    height: 400px;
+    background-color: grey;
+    border: 2px solid #D0D0D0;
+    justify-items: center;
+    border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+
+}
+    
+
+#dis{
+    height: 40px;
+    width: 250px;
+    border: 8px;
+    font-size: 23px;
+   
+}
+.btn1{
+    padding-top: 10px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.btn1a,.btn1b,.btn1c{
+  
+    width: 65px;
+    height: 45px;
+    background-color: grey;
+    font-size: 23px;
+    border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+    margin: 5px;
+}
